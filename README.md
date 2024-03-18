@@ -22,7 +22,7 @@ Los Websockets son una tecnología que permite una comunicación bidireccional y
 - **Requerimientos adicionales**: El soporte para Websockets en el servidor y en el cliente es necesario, lo que puede no ser posible en todas las plataformas.
 - **Escalabilidad**: Manejar grandes cantidades de conexiones simultáneas puede ser un desafío y requerir una planificación cuidadosa para escalar horizontalmente.
 
-## Ejemplo Complejo con JavaScript
+## Ejemplo Javascript
 
 ```javascript
 // Servidor WebSocket usando Node.js y el módulo ws
